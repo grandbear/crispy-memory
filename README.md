@@ -1,5 +1,5 @@
 # crispy-memory
-  使用Arduino基于ESP32-WROOM32开发板的太空人天气时钟
+  使用Arduino基于ESP32-WROOM32开发板的太空人天气时钟，可联网显示对应城市的天气以及时间。
   
   b站效果演示：https://www.bilibili.com/video/BV1TN41187Qj/
 
